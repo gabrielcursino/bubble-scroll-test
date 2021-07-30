@@ -1,0 +1,7 @@
+{
+  "name": "bubble-scroll-test",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "vue"
+}
